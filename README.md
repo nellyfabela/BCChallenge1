@@ -7,14 +7,20 @@
 
 This challenge allowed me to learn the different options that both HTML and CSS have when we want to obtain the same product but have a different code. It was pretty challenging but having the tools from the internet was very helpful, as well trial and error for each of the lines and the impact and difference it made on the website was interesting to see. I learned the value of checking the details and making sure to always try new things even if I don't know the outcome, try and keep going while learning what works and what doesn't.
 
-
 ## Installation
 
 For this Challenge I used mainly Terminal, GitHub, VS Code and an internet browser. 
 
+## User Story
+
+The challenge indicates the desires to accomplish:
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+
 ## Acceptance Criteria
 
-A webpage meets accessibility standards>
+A webpage meets accessibility standards
 I find semantic HTML elements
 I find that the elements follow a logical structure independent of styling and positioning
 I find accessible alt attributes
