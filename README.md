@@ -38,3 +38,7 @@ https://blog.hubspot.com/website/html-accessibility
 https://www.freecodecamp.org/news/semantic-html5-elements/
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/navhttps://www.codecademy.com/learn/learn-html/modules/learn-semantic-html/cheatsheet
 https://coding-boot-camp.github.io/full-stack/html/html-cheatsheet
+
+## Link to the website worked with the Accepted Criteria
+
+https://nellyfabela.github.io/BCChallenge1/#social-media-marketing
