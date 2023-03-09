@@ -1,0 +1,195 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+/* This header is the block that's blue on the upper side of the webpage */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* This h1 stands for the Horiseon word in the upper left side of the webpage*/
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+/* .header h1 .seo {
+    color: #bdc7b2;
+} */
+
+/* Nav are the three "a" that are our options of the links, so then "a" is SearchEngineOpt, OnlineRepMan and SocialMedMark (the three options) so for those we will just put the color and put how far from the screen to the left it'll be.*/
+
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;  
+}
+
+
+a {
+    margin-left: 25px;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+
+/* Will be considering this information for the subtitles that go on the right of Horiseon
+Will be substituting for "a" that is above and add text decoration to eliminate the underlined that appeared.
+
+.benefit-brand div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}*/
+
+figure img {
+    height: 900px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+
+}
+/* This applies for the three boxes from the left*/
+
+article{
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+section {
+
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    float: left;
+    
+}
+
+section img {
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    height: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    box-sizing: border-box;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 36px;
+    text-align: left;
+
+}
+
+section p {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+/* This applies for the large column on the right*/
+
+aside {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    color: #ffffff;
+}
+
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 160px;
+}
+
+aside h3{
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 13px;
+}
+
+
+/*
+aside{
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+aside h3{
+    margin-bottom: 10px;
+    color: #ffffff;
+}
+
+aside img{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+*/
+/* #left{
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+} */
